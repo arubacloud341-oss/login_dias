@@ -5,6 +5,7 @@ el chromedriver debe estar en:
 C:\Program Files (x86)
 estamos disponibles enTelegram: @CodeCheckr
 o en nuestro whatsapp 3043900000
-Nota: Mantenga sus credenciales seguras y no comparta
-el acceso con terceros.
+Nota: Mantenga sus credenciales seguras
+no comparta el acceso con terceros.
+
 
